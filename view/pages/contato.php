@@ -70,9 +70,9 @@
     <div class="container text-center">
         <h4 class="pt-4">Contato</h4>
         <h6 class="pb-3">Informações de contato</h6>
-        <p style="font-size: 13px;">Aluno: Francisco Álisson Costa Lopes</p>
-        <p style="font-size: 13px;">E-mail: francisco.lopes@cs.cruzeirodosul.edu.br</p>
-        <p style="font-size: 13px;">RGM: 31703747</p>
+        <p style="font-size: 13px;">Aluno: Klinsmamn Rodrigues</p>
+        <p style="font-size: 13px;">E-mail: Klinsmamnrodrigues@gmail.com</p>
+        <p style="font-size: 13px;">RGM: 24431648 </p>
       
     </div>
   
@@ -80,7 +80,7 @@
         <div class="container">
         <h6 class="pt-3">Cafeteria Gourmet</h6>
         <p>O prazer gourmet à sua porta</p>
-        <p class="card-text pb-3" style="font-size: 10px;">2023 <i class="bi bi-c-circle"></i> Desenvolvido por Francisco Álisson | Projeto para obtenção da nota do PIT 2</p>
+        <p class="card-text pb-3" style="font-size: 10px;">2023 <i class="bi bi-c-circle"></i> Desenvolvido por Klinsmamn Rodrigues de oliveira | Projeto para obtenção da nota do PIT 2</p>
         </div>
     </footer>
     <script type="text/javascript" src="../../assets/js/bootstrap.bundle.min.js"></script>

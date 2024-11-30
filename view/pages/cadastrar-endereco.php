@@ -121,7 +121,7 @@
         <div class="container">
             <h6 class="pt-3">Cafeteria Gourmet</h6>
         <p>O prazer gourmet à sua porta</p>
-        <p class="card-text pb-3" style="font-size: 10px;">2023 <i class="bi bi-c-circle"></i> Desenvolvido por Francisco Álisson | Projeto para obtenção da nota do PIT 2</p>
+        <p class="card-text pb-3" style="font-size: 10px;">2023 <i class="bi bi-c-circle"></i> Desenvolvido por Klinsmamn Rodrigues de oliveira | Projeto para obtenção da nota do PIT 2</p>
         </div>
         
     </footer>
